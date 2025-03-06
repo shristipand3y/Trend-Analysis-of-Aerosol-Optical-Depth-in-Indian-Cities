@@ -70,7 +70,7 @@ pip install numpy pandas rasterio matplotlib seaborn scipy
 - Improve visualization with interactive dashboards (e.g., using Plotly or Dash).
 
 ## **Contributors**
-- **[Your Name]** – Data Analysis & Implementation
+- **Shristi Pandey** – Data Analysis & Implementation
 - **Mentor:** Dr. Manoj Kumar Mishra (ISRO)
 
 ## **License**
